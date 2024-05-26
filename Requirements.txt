@@ -1,0 +1,12 @@
+1)Hardware Reequirements
+-Arduino Uno Board
+-PIR Motion Sensor
+-Temperature and humidity sensors(DHT11/DHT22)
+-Relays
+-Wi-Fi Module (ESP8266)
+-Jumper Wires
+
+
+2)Software Requirements
+-Arduino IDE
+-Liquid Crystal Library

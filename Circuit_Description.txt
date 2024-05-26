@@ -1,0 +1,10 @@
+Circuit Description:
+
+- There is a temperature sensor used to display the current temperature 
+on the LCD.
+
+- The top right PIR sensor is used to switch on/off the light bulb 
+automatically when movement is detected.
+
+- The bottom left PIR sensor is used to detect intruder if any and display 
+on LCD.
